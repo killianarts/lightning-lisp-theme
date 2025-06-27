@@ -1,0 +1,17 @@
+#+title: Lightning Lisp Theme for Emacs
+
+* A THEME FOR ANY LIGHTING CONDITIONS
+
+Do you find yourself switching between different themes depending on whether you're coding in dim or bright lighting? Feel like you're getting too distracted by all the theme switching? Most importantly: do you love Lisp?
+
+Then this theme is for you.
+
+I made this theme to avoid distracting myself with theme changes depending on lighting conditions. Dark themes aren't good when I code at Mister Donut. Light themes are horrible when I'm writing up my reflections on the day's work, writing TODO's for the next day, or simply leave the blinds closed.
+
+I made this theme so that I could just focus on the coding.
+
+* LIMITING COLORS
+
+Modern themes and theme makers have the aesthetic taste of 4 year-old children. Oh, you incorporate all of the colors of the rainbow? That's very nice.
+
+With this theme, instead of overdosing on colors, I stick to a more limited palette. To make up for it, I incorporate a highly-opinionated use of font weight and width changes.
